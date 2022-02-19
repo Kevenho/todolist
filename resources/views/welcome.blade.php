@@ -44,7 +44,7 @@
             margin: 30px auto;
             overflow: auto;
             min-height: 300px;
-            border: 2px solid #db1d4b;
+            border: 2px solid #d9296c;
             padding: 30px;
             border-radius: 10px;
             color: white;
